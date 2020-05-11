@@ -1,1 +1,1 @@
-# TotalDataScience
+# Total Data Science
